@@ -11,8 +11,10 @@ p {
 
 dt {
     font-weight: bold;
-    font-size: 1.15;
+    font-size: 1.15em;
 }
+
+   
 
 img {
    max-width: 150px;
